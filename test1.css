@@ -1,0 +1,52 @@
+h2{
+    color: #FFBC00;
+    font-size: 40px;
+    font-family: "Passion One"; 
+    margin-bottom: 0px;
+    text-align: center;
+    border: solid 8px white;
+    margin-bottom: 15px;
+    background-color: #8E41D5;
+}
+fieldset{
+    
+
+}
+#Left label{
+    color: #FFBC00;
+}
+legend{
+    color: white;
+    font-family: "Arial";
+    font-weight: bold;
+}
+
+label{
+    
+}
+
+input{
+
+}
+input{
+    color: rgb(0, 238, 255);
+    font-family: "Passion One"; 
+    margin-bottom: 0px;
+}
+
+option{
+    
+    
+
+}
+
+body{
+    background-image: url('dark_wood.png');
+    color: white;
+    font-family: "Arial";
+    font-weight: bold;
+}
+
+#container {
+   
+}
